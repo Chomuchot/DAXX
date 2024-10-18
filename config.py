@@ -142,8 +142,8 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
-START_IMG_URL = "START_IMG_URL", "https://graph.org/file/5cb22767b7c88b0961d4f.png"
-PING_IMG_URL = "PING_IMG_URL", "https://graph.org/file/3a3d2f651a312adc0b203.jpg"
+START_IMG_URL = "https://graph.org/file/db7653b29f9b702cb12f8.jpg"
+PING_IMG_URL = "https://graph.org/file/3a3d2f651a312adc0b203.jpg"
 PLAYLIST_IMG_URL = "https://graph.org/file/8bc4fc60d6de1047f5fa3.jpg"
 STATS_IMG_URL = "https://graph.org/file/3fe5b9ae21d09d99eea61.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/86b7bc5ee5685d6aaa7d1.jpg"
