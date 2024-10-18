@@ -55,7 +55,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Chomuchot/Marin-akuma.git",
+    "https://github.com/Chomuchot/DAXX",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -116,7 +116,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = "BQGcQ78AG5nq1UUdL5LimDhXCAJUfQ4TQuOEqRGXfM5RQlv9CVTuEP4y2yDOOmJw3E8ITUHlz8W6P8DJULhl5b21e6H-8EV_SbhyPMTkbcO_DrB6jxgcgRWpbcBGH5LYerU_BeHODWQE5D-P3b36kzf7i92C-4LXObAdTIOGr3AI6n1BlJ-TKa8gvMO1JH8zYcq4GHOSaW1HtgaA6ZGBjtM6Gp8O1KAwSU8unSX6ZzsUfzHrl6Zvo4mrYX-UZz53vdspPPGsErYZDxK5KPGN1bdvRcsl7d5bbcKu1FOwby8xc9iMv1MxabcRFuMEbzbCBOa8TU8Kucd7eYhDIwyb6yHpcC3MrwAAAAGiwXINAA"
+STRING1 = "BQGcQ78AwtxbVkJcxIcu5u3EfjO5HdCkOzJlSxLWdr5hffuQunCSx4XQlFvYkTR_-aEydKbn5CVasEzrexjLVxPv0hvcRBjCSkFimxQYpbnKGENLGltb5tcOfzfFWDnP7CsjQhQ42Ydf_frBgDjzwhHfQWSaN-dqfC6Fvz5bsdRbb6vplXs-KaS-a0fXkx6qnpAjps3v4XFALukHiYi70jeoIt57gT5o0pkPalcl7rLW4cItquRJVTxwoQ0qN3f4SHSSEciAh2HGzSqaffpE8gy2lPPjAvu62hwvQ9Y5fgdJW6ZJJ-cJzvmVmNRwvqtmlnSfYi8P3jAsXRUdBwBx42EW1OLAAAAAHT4YAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
